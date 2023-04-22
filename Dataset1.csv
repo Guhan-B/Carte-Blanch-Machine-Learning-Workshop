@@ -1,0 +1,15 @@
+RID,Age,Income,Credit,Buying system
+1,youth,high,fair,no
+2,youth,high,good,no
+3,middle,high,fair,yes
+4,senior,middle,fair,yes
+5,senior,low,fair,yes
+6,senior,low,good,no
+7,middle,low,fair,yes
+8,youth,middle,fair,no
+9,youth,low,fair,yes
+10,senior,middle,fair,yes
+11,youth,middle,good,yes
+12,middle,middle,good,yes
+13,middle,high,fair,yes
+14,senior,middle,good,no
